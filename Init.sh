@@ -4,7 +4,8 @@ sudo apt update
 
 sudo apt upgrade
 
-sudo apt install fontconfig openjdk-17-jre
+sudo apt install openjdk-17-jdk -y
+
 echo java -version
 
 openjdk version "17.0.13" 2024-10-15
